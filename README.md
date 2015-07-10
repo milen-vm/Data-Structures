@@ -1,1 +1,2 @@
-# Data-Structures
+# Data Structures
+SoftUni Open course
