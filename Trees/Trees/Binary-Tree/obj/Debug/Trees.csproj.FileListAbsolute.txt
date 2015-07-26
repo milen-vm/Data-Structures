@@ -1,0 +1,5 @@
+C:\Users\Win\Documents\Visual Studio 2013\Projects\Trees\Binary-Tree\bin\Debug\Trees.exe
+C:\Users\Win\Documents\Visual Studio 2013\Projects\Trees\Binary-Tree\bin\Debug\Trees.pdb
+C:\Users\Win\Documents\Visual Studio 2013\Projects\Trees\Binary-Tree\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\Win\Documents\Visual Studio 2013\Projects\Trees\Binary-Tree\obj\Debug\Trees.exe
+C:\Users\Win\Documents\Visual Studio 2013\Projects\Trees\Binary-Tree\obj\Debug\Trees.pdb
