@@ -8,7 +8,7 @@ class RopeForEfficientStringEditing
     static void Main()
     {
         string input = Console.ReadLine();
-        while (input != string.Empty)
+        while (input != "END")
         {
             int separatorIndex = input.IndexOf(' ');
             string command;
@@ -67,7 +67,7 @@ class RopeForEfficientStringEditing
         string count = subInput.Substring(0, indexSecond);
         string str = subInput.Substring(indexSecond + 1);
         Delete(startIndex + " " + count);
-        Insert(str + " " + startIndex);
+        Insert(startIndex + " " + str);
     }
 
     private static void Print()
@@ -91,9 +91,9 @@ class RopeForEfficientStringEditing
 
     private static void Insert(string str)
     {
-        int index = str.LastIndexOf(' ');
-        var charArr = str.Substring(0, index).ToCharArray();
-        int insertPosition = int.Parse(str.Substring(index + 1));
+        int index = str.IndexOf(' ');
+        var charArr = str.Substring(index + 1).ToCharArray();
+        int insertPosition = int.Parse(str.Substring(0, index));
         chars.InsertRange(insertPosition, charArr);
     }
 }

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FindWordsInFile", "FindWordsInFile\01.FindWordsInFile.csproj", "{8E9177FD-D664-4131-AE15-1063D0AAD4BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FindWordsInFile", "FindWordsInFile\03.FindWordsInFile.csproj", "{8E9177FD-D664-4131-AE15-1063D0AAD4BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ProductsInPriceRange", "ProductsInPriceRange\02.ProductsInPriceRange.csproj", "{766C7868-5287-40D0-9CE1-257400A61CBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ProductsInPriceRange", "ProductsInPriceRange\01.ProductsInPriceRange.csproj", "{766C7868-5287-40D0-9CE1-257400A61CBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.StringEditor", "StringEditor\04.StringEditor.csproj", "{B70DA427-BB23-4DE9-B9DC-E2B2CF81618A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.StringEditor", "StringEditor\02.StringEditor.csproj", "{B70DA427-BB23-4DE9-B9DC-E2B2CF81618A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
